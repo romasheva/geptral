@@ -3,13 +3,13 @@
 	font-family: 'Calibri';
 	src: url('../fonts/ofont.ru_Calibri.eot');
 	src: local('☺'), url('../fonts/ofont.ru_Calibri.woff') format('woff'), url('../fonts/ofont.ru_Calibri.ttf') format('truetype'), url('../fonts/ofont.ru_Calibri.svg') format('svg');
-	font-weight: normal;
+	font-weight: bold;
 	font-style: normal;
 }
 @font-face {
-	font-family: 'Calibri';
-	src: url('../fonts/calibri-bold.eot');
-	src: local('☺'), url('../fonts/calibri-bold.woff') format('woff'), url('../fonts/calibri-bold.ttf') format('truetype'), url('../fonts/calibri-bold.svg') format('svg');
+	font-family: 'Calibri Regular';
+	src: url('../fonts/Calibri Regular.eot');
+	src: local('☺'), url('../fonts/Calibri Regular.woff') format('woff'), url('../fonts/Calibri Regular.ttf') format('truetype'), url('../fonts/Calibri Regular.svg') format('svg');
 	font-weight: Regular;
 	font-style: normal;
 }
