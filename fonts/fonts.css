@@ -10,7 +10,7 @@
 	font-family: 'Calibri Regular';
 	src: url('../fonts/Calibri Regular.eot');
 	src: local('☺'), url('../fonts/Calibri Regular.woff') format('woff'), url('../fonts/Calibri Regular.ttf') format('truetype'), url('../fonts/Calibri Regular.svg') format('svg');
-	font-weight: Regular;
+	font-weight: normal;
 	font-style: normal;
 }
 
