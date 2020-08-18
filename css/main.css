@@ -35,6 +35,24 @@
     display: inline-block;
 }
 .heading{
+    position: relative;
+}
+.logo_ademet{
+    position: relative;
+    left: 429px;
     display: inline-block;
-    position: absolute;
+    top: 63px;
+}
+.name_ademet{
+    position: relative;
+    display: inline-block;
+    left: 587px;
+    top: 10px;
+}
+.name_ademet_{
+    font-family: 'Calibri';
+    font-weight: bold;
+    color: #076a07;
+    font-size: 60px;
+    
 }
