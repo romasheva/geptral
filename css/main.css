@@ -65,3 +65,37 @@
     color: #076a07;
     font-size: 60px;
 }
+/* ========================Container=================== */
+.container_int{
+    position: relative;
+    display: flex;
+}
+.liver{
+    position: relative;
+    display: inline-block;
+}
+.back_liver{
+    position: relative;
+    left: 70px;
+    display: inline-block;
+}
+.back_shadow{
+    border: 2px solid green;
+    border-radius: 50%;
+    width: 425px;
+    height: 425px;
+    position: relative;
+    display: inline-block;
+    left: 70px;
+    top: -413px;
+}
+.back_line{
+    border: 2px solid red;
+    border-radius: 50%;
+    width: 425px;
+    height: 425px;
+    position: relative;
+    display: inline-block;
+    left: 70px;
+    top: -832px;
+}
