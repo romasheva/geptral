@@ -71,7 +71,7 @@
     display: flex;
 }
 .liver{
-    position: relative;
+    position: absolute;
     display: inline-block;
 }
 .back_liver{
@@ -86,8 +86,6 @@
     height: 425px;
     position: relative;
     display: inline-block;
-    left: 70px;
-    top: -413px;
 }
 .back_line{
     border: 2px solid red;
@@ -96,6 +94,6 @@
     height: 425px;
     position: relative;
     display: inline-block;
-    left: 70px;
-    top: -832px;
+    left: 0;
+    
 }
