@@ -8,15 +8,15 @@
 }
 .logo{
     margin-left: 43px;
-    position: absolute;
-    margin-top: 58px;
+    position: relative;
+    margin-top: 56px;
     display: inline-block;
 }
 .logo_descript{
     display: inline-block;
-    position: absolute;
-    left: 548px;
-    top: 42px;
+    position: relative;
+    left: 87px;
+    top: 34px;
 }
 .logo_descript h1{
     font-family: 'Calibri';
@@ -29,9 +29,12 @@
     font-weight: bold;
     color: #68a707;
     font-size: 37px;
-    position: absolute;
-    top: 42px;
+    position: relative;
+    top: -105px;
     left: 917px;
     display: inline-block;
-    box-sizing: border-box;
+}
+.heading{
+    display: inline-block;
+    position: absolute;
 }
