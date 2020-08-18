@@ -8,11 +8,12 @@
 }
 .logo_descript{
     display: inline-block;
+    margin-left: 95px;
 }
 .logo_descript h1{
     font-family: 'Calibri';
     font-weight: bold;
-    text-decoration-color: 68a707;
+    color: #68a707;
     font-size: 58px;
 }
 .logo_descript_number{
