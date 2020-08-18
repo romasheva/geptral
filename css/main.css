@@ -11,9 +11,10 @@
     display: inline-block;
 }
 .logo_descript{
-    margin-left: 95px;
-    margin-top: 95px;
     display: inline-block;
+    position: absolute;
+    left: 548px;
+    top: 42px;
 }
 .logo_descript h1{
     font-family: 'Calibri';
@@ -22,5 +23,11 @@
     font-size: 58px;
 }
 .logo_descript_number{
-    display: inline;
+    font-family: 'Calibri';
+    font-weight: bold;
+    color: #68a707;
+    font-size: 37px;
+    position: absolute;
+    top: 42px;
+    left: 917px;
 }
