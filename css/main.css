@@ -1,20 +1,19 @@
 .wrapper{
-    width: 1952px;
+    max-width: 1952px;
 }
 .header{
     position: relative;
 }
 .logo{
     margin-left: 43px;
-    position: relative;
+    position: absolute;
+    margin-top: 58px;
     display: inline-block;
-    top: 0;
 }
 .logo_descript{
-    position: relative;
-    display: inline-block;
     margin-left: 95px;
     margin-top: 95px;
+    display: inline-block;
 }
 .logo_descript h1{
     font-family: 'Calibri';
