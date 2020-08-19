@@ -100,14 +100,15 @@
     display: inline-block;
 }
 .back_line{
-    width: 25em;
-    height: 13em;
-    border: 2px solid red;
-    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    width: 24em;
+    height: 14em;
+    border: 3px solid #68a707;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
     border-bottom: 0;
     position: relative;
     display: inline-block;
-    left: 70px;
-    top: -735px;
-    transform: rotate(62deg);
+    left: 72px;
+    top: -738px;
+    transform: rotate(64deg);
 }
