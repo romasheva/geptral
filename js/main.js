@@ -3,5 +3,5 @@ var ctx = canvas.getContext('2d');
 
 ctx.lineWidth = 5; // толщина линии
 
-ctx.arc(200,200,100,0, Math.PI,true);
+ctx.arc(200,200,100,0, Math.PI,false);
 ctx.stroke();
