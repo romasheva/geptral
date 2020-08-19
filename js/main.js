@@ -1,7 +1,13 @@
-var canvas=document.getElementById('back_line_canv');
+var canvas=document.getElementById('canv_line');
 var ctx = canvas.getContext('2d');
 
-ctx.lineWidth = 5; // толщина линии
+function inRad(num) {
+	//я ведь говорил, что функция принимает угол в радианах?
+	return num * Math.PI / 180;
+}
+ctx.rotate(inRad(-90));
+ctx.lineWidth = 2; // толщина линии
 
 ctx.arc(200,200,100,0, Math.PI,false);
 ctx.stroke();
+
