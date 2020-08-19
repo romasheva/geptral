@@ -88,11 +88,10 @@
     display: inline-block;
 }
 .back_line{
-    border: 2px solid red;
-    border-radius: 50%;
+    border-bottom: 2px solid red;
+    border-radius: 0 0 10px 3px;
     width: 425px;
-    height: 425px;
-    position: absolute;
+    position: relative;
     display: inline-block;
     left: 0;
     
