@@ -1,4 +1,4 @@
-// var hiddenBox = $( ".logo_ademet" );
-// $( "#bnt_logo" ).on( "click", function( event ) {
-//   hiddenBox.show(1);
-// });
+var hiddenBox = $( ".logo_ademet" );
+$( "#bnt_logo" ).on( "click", function( event ) {
+  hiddenBox.show(1);
+});
