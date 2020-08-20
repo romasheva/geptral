@@ -1,4 +1,16 @@
-var hiddenBox = $( ".logo_ademet" );
-$( "#bnt_logo" ).on( "click", function( event ) {
-  hiddenBox.show(1);
-});
+$(document).ready(function(){
+    /* Beginning of Verbs */
+        $("#back_line_canv").mouseenter(function(){
+            $("#back_line_img").css("text-shadow", "1px 1px 1px blue");
+        });
+        $("#back_line_canv").mouseleave(function(){
+            $("#back_line_img").css("text-shadow", "");
+        });
+        $("#back_line_canv").mouseenter(function(){
+            $("#back_line_img").css("text-shadow", "1px 1px 1px red");
+        });
+        $("#back_line_canv").mouseleave(function(){
+            $("#back_line_img").css("text-shadow", "");
+        });
+        /* Ending of Nouns */
+    });
