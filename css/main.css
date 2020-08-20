@@ -100,10 +100,10 @@
     display: inline-block;
 }
 .back_line{
-    display: block;
+    top: -812px;
     position: relative;
+    left: -30px;
 }
 .back_line img{
-    top: 100px;
-    position: relative;
+    
 }
