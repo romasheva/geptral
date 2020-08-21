@@ -66,7 +66,7 @@
     font-size: 60px;
 }
 /* ========================Container=================== */
-.container_int{
+.container{
     position: relative;
     display: flex;
 }
