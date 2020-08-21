@@ -70,16 +70,16 @@
     position: relative;
     display: flex;
 }
-.liver{
+.container__liver{
     position: relative;
     display: inline-block;
 }
-.back_liver{
+.liver__back{
     position: relative;
     left: 70px;
     display: inline-block;
 }
-.back_shadow{
+.liver__shadow{
     border: 0 solid green;
     border-radius: 50%;
     box-shadow: 0 0 0px 13px #dcebc6;
@@ -99,11 +99,11 @@
     position: relative;
     display: inline-block;
 }
-.back_line{
+.liver__line{
     top: -812px;
     position: relative;
     left: -30px;
 }
-.back_line img{
+.liver__img{
     display: inline-block;
 }
