@@ -24,14 +24,14 @@
     color: #68a707;
     font-size: 58px;
 }
-.header__descript__number{
+.header__number{
     font-family: 'Calibri';
     font-weight: bold;
     color: #68a707;
     font-size: 37px;
     position: relative;
-    top: -105px;
-    left: 917px;
+    top: -16px;
+    right: 8px;
     display: inline-block;
 }
 .heading{
