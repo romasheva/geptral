@@ -6,7 +6,7 @@
 .header{
     position: relative;
 }
-.logo{
+.header__logo{
     margin-left: 43px;
     position: relative;
     margin-top: 56px;
