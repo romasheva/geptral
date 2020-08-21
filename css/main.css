@@ -12,19 +12,19 @@
     margin-top: 56px;
     display: inline-block;
 }
-.logo_descript{
+.header__descript{
     display: inline-block;
     position: relative;
     left: 87px;
     top: 34px;
 }
-.logo_descript h1{
+.header__descript h1{
     font-family: 'Calibri';
     font-weight: bold;
     color: #68a707;
     font-size: 58px;
 }
-.logo_descript_number{
+.header__descript__number{
     font-family: 'Calibri';
     font-weight: bold;
     color: #68a707;
