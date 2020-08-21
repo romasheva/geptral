@@ -37,19 +37,19 @@
 .heading{
     position: relative;
 }
-.logo_ademet{
+.heading__logo{
     position: relative;
     left: 429px;
     display: inline-block;
     top: -21px;
 }
-.name_ademet{
+.heading__tittle{
     position: relative;
     display: inline-block;
     left: 495px;
     top: -15px;
 }
-.name_ademet::before{
+.heading__tittle::before{
     content: "";
     border: 2px solid #333333;
     height: 73px;
@@ -59,7 +59,7 @@
     left: -41px;
     border-radius: 10px;
 }
-.name_ademet_{
+.heading__name{
     font-family: 'Calibri';
     font-weight: bold;
     color: #076a07;
